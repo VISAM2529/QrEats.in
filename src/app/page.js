@@ -259,7 +259,7 @@ const Analytics = () => {
               <div className="grid grid-cols-2 gap-4 mb-6">
                 <div className="bg-white/20 rounded-xl p-4">
                   <div className="text-3xl font-bold">₹45,280</div>
-                  <div className="text-orange-100">Today's Revenue</div>
+                  <div className="text-orange-100">Today&apos;s Revenue</div>
                 </div>
                 <div className="bg-white/20 rounded-xl p-4">
                   <div className="text-3xl font-bold">127</div>
