@@ -48,9 +48,9 @@ export default function Solution() {
                             Why QrEats?
                         </div>
                         <h2 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6 leading-tight">
-                            It's Not Just Software.
+                            It&apos;s Not Just Software.
                             <br />
-                            <span className="text-gradient">It's Your Growth Partner.</span>
+                            <span className="text-gradient">It&apos;s Your Growth Partner.</span>
                         </h2>
                         <p className="text-lg text-slate-600 mb-8">
                             QrEats bridges the gap between <span className="font-semibold text-slate-900">daily operations</span> and <span className="font-semibold text-slate-900">modern marketing</span>. We handle the boring stuff so you can focus on the food.

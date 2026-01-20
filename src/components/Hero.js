@@ -77,7 +77,7 @@ export default function Hero({ onBookDemo }) {
                                     </div>
                                     <div className="w-1/3 h-32 bg-blue-50 rounded-xl flex flex-col items-center justify-center p-2 border border-blue-100">
                                         <div className="text-3xl font-bold text-blue-600 mb-1">₹12k</div>
-                                        <div className="text-xs text-slate-500">Today's Sales</div>
+                                        <div className="text-xs text-slate-500">Today&apos;s Sales</div>
                                     </div>
                                     <div className="w-1/3 h-32 bg-purple-50 rounded-xl flex flex-col items-center justify-center p-2 border border-purple-100">
                                         <div className="text-3xl font-bold text-purple-600 mb-1">5+</div>

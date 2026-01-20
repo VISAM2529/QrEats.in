@@ -34,14 +34,14 @@ export default function Testimonials() {
                     {reviews.map((rev, i) => (
                         <div key={i} className="bg-slate-800 p-8 rounded-2xl border border-slate-700 relative">
                             {/* Quote Icon */}
-                            <div className="absolute top-4 right-8 text-6xl text-slate-700 font-serif opacity-30">"</div>
+                            <div className="absolute top-4 right-8 text-6xl text-slate-700 font-serif opacity-30">&quot;</div>
 
                             <div className="flex gap-1 mb-4">
                                 {[...Array(5)].map((_, r) => (
                                     <Star key={r} size={16} className={`${r < rev.rating ? 'text-yellow-400 fill-yellow-400' : 'text-slate-600'}`} />
                                 ))}
                             </div>
-                            <p className="text-slate-300 italic mb-6">"{rev.text}"</p>
+                            <p className="text-slate-300 italic mb-6">&quot;{rev.text}&quot;</p>
                             <div>
                                 <h4 className="font-bold text-white">{rev.name}</h4>
                                 <p className="text-sm text-primary">{rev.cafe}</p>

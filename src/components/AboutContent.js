@@ -34,7 +34,7 @@ function AboutContent() {
                 <div className="max-w-4xl mx-auto px-4 text-center">
                     <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">Empowering Local Cafés to <span className="text-primary">Win Online.</span></h1>
                     <p className="text-lg text-slate-600 leading-relaxed">
-                        QrEats wasn't built in a boardroom. It was built sitting in coffee shops, watching owners struggle with multiple tablets, angry customers, and zero Instagram growth. We decided to fix it.
+                        QrEats wasn&apos;t built in a boardroom. It was built sitting in coffee shops, watching owners struggle with multiple tablets, angry customers, and zero Instagram growth. We decided to fix it.
                     </p>
                 </div>
             </section>
@@ -61,7 +61,7 @@ function AboutContent() {
                                 <Heart size={32} />
                             </div>
                             <h3 className="text-xl font-bold text-slate-900">Customer Obsessed</h3>
-                            <p className="text-slate-600">We don't just sell software. We help you create reels, shoot videos, and grow.</p>
+                            <p className="text-slate-600">We don&apos;t just sell software. We help you create reels, shoot videos, and grow.</p>
                         </div>
                     </div>
                 </div>
