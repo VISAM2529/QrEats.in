@@ -7,7 +7,7 @@ const outfit = Outfit({
   display: "swap",
   weight: ["300", "400", "500", "600", "700", "800"],
 });
-
+//sampl
 export const metadata = {
   title: "QrEats - Run Your Café. Grow Your Brand.",
   description: "The all-in-one Café Growth & Management Platform. QR Ordering, POS, Inventory & Social Media Marketing.",
